@@ -1,3 +1,9 @@
 p{
     color: rgb(165, 49, 49);
 }
+.featureOne{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
